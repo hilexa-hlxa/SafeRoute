@@ -1,0 +1,19 @@
+
+> saferoute-frontend@1.0.0 dev
+> vite
+
+
+  VITE v5.4.21  ready in 259 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.0.110:5173/
+2:29:11 PM [vite] hmr update /src/components/Map/SafetyMap.jsx, /src/index.css
+2:29:13 PM [vite] hmr update /src/components/Map/SafetyMap.jsx, /src/index.css
+2:29:18 PM [vite] hmr update /src/components/Map/SafetyMap.jsx, /src/index.css
+2:29:20 PM [vite] hmr update /src/components/Map/SafetyMap.jsx, /src/index.css
+2:29:31 PM [vite] hmr update /src/components/Map/RoutePlanner.jsx, /src/index.css
+2:29:33 PM [vite] hmr update /src/components/Map/SafetyMap.jsx, /src/index.css
+2:29:39 PM [vite] hmr update /src/components/Map/RoutePlanner.jsx, /src/index.css
+2:29:49 PM [vite] hmr update /src/components/Map/RoutePlanner.jsx, /src/index.css
+2:30:15 PM [vite] hmr update /src/components/Map/RoutePlanner.jsx, /src/index.css
+2:30:15 PM [vite] hmr update /src/components/Map/SafetyMap.jsx, /src/index.css
